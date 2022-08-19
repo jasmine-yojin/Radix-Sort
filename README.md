@@ -49,8 +49,8 @@ Then close all files.
 
 <h2>Illustration for Data 1</h2>
 
-![](images/Ilustration.gif)
+![](image/Ilustration.gif)
 
 <h2>Illustration for Data 2</h2>
-![](images/Ilustration2.gif)
-![](images/Ilustration3.gif)
+![](image/Ilustration2.gif)
+![](image/Ilustration3.gif)
