@@ -46,3 +46,9 @@ queue of the next table until the queue is empty.<br>
 the first reading function, then loadStack function. Print out the stack to see if the data transferred
 correctly from the text file. Then perform the sorting by calling the RSort method. Print out the result.
 Then close all files. 
+
+<h2>Illustration for Data 1</h2>
+
+
+
+<h2>Illustration for Data 2</h2>
